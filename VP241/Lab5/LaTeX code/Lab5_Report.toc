@@ -1,0 +1,44 @@
+\contentsline {section}{\numberline {1}\textsc {Objective}}{1}% 
+\contentsline {section}{\numberline {2}\textsc {Theoretical background}}{1}% 
+\contentsline {subsection}{\numberline {2.1}\textsc {Transient Processes in RC, RL, RLC Series Circuits}}{1}% 
+\contentsline {subsubsection}{\numberline {2.1.1}\textsc {RC Series Circuits}}{1}% 
+\contentsline {subsubsection}{\numberline {2.1.2}\textsc {RL Series Circuits}}{2}% 
+\contentsline {subsubsection}{\numberline {2.1.3}\textsc {RLC Series Circuits}}{3}% 
+\contentsline {subsection}{\numberline {2.2}\textsc {RC, RL Steady\IeC {\textendash }State Circuits}}{4}% 
+\contentsline {subsection}{\numberline {2.3}\textsc {RLC Resonant Circuit}}{4}% 
+\contentsline {subsubsection}{\numberline {2.3.1}\textsc {RLC Series Circuit}}{4}% 
+\contentsline {subsubsection}{\numberline {2.3.2}\textsc {Resonance}}{5}% 
+\contentsline {subsubsection}{\numberline {2.3.3}\textsc {Quality Factor in Resonant Circuits}}{6}% 
+\contentsline {section}{\numberline {3}\textsc {Apparatus and Experimental Setup}}{7}% 
+\contentsline {section}{\numberline {4}\textsc {Procedures \cite {labmanual}}}{7}% 
+\contentsline {subsection}{\numberline {4.1}\textsc {RC, RL Series Circuit}}{7}% 
+\contentsline {subsection}{\numberline {4.2}\textsc {RLC Series Circuit}}{8}% 
+\contentsline {subsection}{\numberline {4.3}\textsc {RLC Resonant Circuit}}{8}% 
+\contentsline {section}{\numberline {5}\textsc {Results}}{8}% 
+\contentsline {subsection}{\numberline {5.1}\textsc {RC Series Circuit}}{8}% 
+\contentsline {subsection}{\numberline {5.2}\textsc {RL Series Circuit}}{9}% 
+\contentsline {subsection}{\numberline {5.3}\textsc {RLC Series Circuit}}{10}% 
+\contentsline {subsection}{\numberline {5.4}\textsc {RLC Resonant Circuit}}{12}% 
+\contentsline {subsubsection}{\numberline {5.4.1}\textsc {Amplitude-frequency characteristic}}{12}% 
+\contentsline {subsubsection}{\numberline {5.4.2}\textsc {phase-frequency characteristic (experimental)}}{14}% 
+\contentsline {subsubsection}{\numberline {5.4.3}\textsc {phase-frequency characteristic (theoretical)}}{16}% 
+\contentsline {subsection}{\numberline {5.5}\textsc {Quality Factor}}{18}% 
+\contentsline {subsubsection}{\numberline {5.5.1}\textsc {Experimental Quality Factor}}{18}% 
+\contentsline {subsubsection}{\numberline {5.5.2}\textsc {Theoretical Quality Factor}}{18}% 
+\contentsline {section}{\numberline {6}\textsc {Conclusion and Discussion}}{19}% 
+\contentsline {subsection}{\numberline {6.1}\textsc {Discussion}}{19}% 
+\contentsline {subsubsection}{\numberline {6.1.1}\textsc {Errors in RC SERIES CIRCUIT}}{19}% 
+\contentsline {subsubsection}{\numberline {6.1.2}\textsc {Errors in RL and RLC SERIES CIRCUIT}}{19}% 
+\contentsline {subsubsection}{\numberline {6.1.3}\textsc {Errors in RLC Resonant Circuit, Quality Factor}}{20}% 
+\contentsline {subsubsection}{\numberline {6.1.4}\textsc {Suggestions}}{20}% 
+\contentsline {subsection}{\numberline {6.2}\textsc {Conclusion}}{20}% 
+\contentsline {section}{\numberline {A}\textsc {Measurement uncertainty analysis}}{21}% 
+\contentsline {subsection}{\numberline {A.1}\textsc {RC Series Circuit}}{21}% 
+\contentsline {subsection}{\numberline {A.2}\textsc {RL Series Circuit}}{21}% 
+\contentsline {subsection}{\numberline {A.3}\textsc {RLC Series Circuit}}{21}% 
+\contentsline {subsection}{\numberline {A.4}\textsc {RLC Resonant Circuit}}{22}% 
+\contentsline {subsubsection}{\numberline {A.4.1}\textsc {Amplitude-frequency characteristic}}{22}% 
+\contentsline {subsubsection}{\numberline {A.4.2}\textsc {phase-frequency characteristic (experimental)}}{22}% 
+\contentsline {subsubsection}{\numberline {A.4.3}\textsc {phase-frequency characteristic (theoretical)}}{22}% 
+\contentsline {subsection}{\numberline {A.5}\textsc {Quality Factor}}{23}% 
+\contentsline {section}{\numberline {B}\textsc {Data sheet}}{23}% 

@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}\textsc {Objective}}{1}% 
+\contentsline {section}{\numberline {2}\textsc {Theoretical background}}{1}% 
+\contentsline {subsection}{\numberline {2.1}\textsc {Hall Effect}}{1}% 
+\contentsline {subsection}{\numberline {2.2}\textsc {Integrated Hall Probe}}{2}% 
+\contentsline {subsection}{\numberline {2.3}\textsc {Magnetic Field Distribution Inside a Solenoid}}{2}% 
+\contentsline {subsection}{\numberline {2.4}\textsc {Study of the Geomagnetic Field with a Hall Probe}}{3}% 
+\contentsline {section}{\numberline {3}\textsc {Apparatus and Experimental Setup}}{4}% 
+\contentsline {section}{\numberline {4}\textsc {Procedures \cite {labmanual}}}{5}% 
+\contentsline {subsection}{\numberline {4.1}\textsc {Relation Between Sensitivity $K_H$ and Working Voltage $U_S$}}{5}% 
+\contentsline {subsection}{\numberline {4.2}\textsc {Relation Between Output Voltage U and Magnetic Field B}}{5}% 
+\contentsline {subsection}{\numberline {4.3}\textsc {Magnetic Field Distribution Inside the Solenoid}}{6}% 
+\contentsline {subsection}{\numberline {4.4}\textsc {Measurement of the Geomagnetic Field}}{6}% 
+\contentsline {section}{\numberline {5}\textsc {Results}}{6}% 
+\contentsline {subsection}{\numberline {5.1}\textsc {Relation Between Sensitivity $K_H$ and Working Voltage $U_S$}}{6}% 
+\contentsline {subsection}{\numberline {5.2}\textsc {Relation Between Output Voltage U and Magnetic Field B}}{8}% 
+\contentsline {subsection}{\numberline {5.3}\textsc {Magnetic Field Distribution Inside the Solenoid}}{9}% 
+\contentsline {section}{\numberline {6}\textsc {Conclusion and Discussion}}{12}% 
+\contentsline {subsection}{\numberline {6.1}\textsc {Discussion}}{12}% 
+\contentsline {subsection}{\numberline {6.2}\textsc {Conclusion}}{13}% 
+\contentsline {section}{\numberline {A}\textsc {Measurement uncertainty analysis}}{14}% 
+\contentsline {subsection}{\numberline {A.1}\textsc {Relation Between Sensitivity $K_H$ and Working Voltage $U_S$}}{14}% 
+\contentsline {subsection}{\numberline {A.2}\textsc {Relation Between Output Voltage U and Magnetic Field B}}{14}% 
+\contentsline {subsection}{\numberline {A.3}\textsc {Magnetic Field Distribution Inside the Solenoid}}{15}% 
+\contentsline {section}{\numberline {B}\textsc {Data sheet}}{15}% 
